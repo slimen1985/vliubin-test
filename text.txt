@@ -1,2 +1,5 @@
 hometask for lesson5
 1. create repo
+2. create commit
+3. Push commit into repo
+4. Drink some beer
