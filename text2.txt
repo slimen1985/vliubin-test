@@ -1,3 +1,4 @@
 Hello, this is text2 text3
 text4 added
 Hello Vadim
+ok, good
